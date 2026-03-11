@@ -1,1 +1,1 @@
-This is an old attempt to visually extract score data from the EZ2AC Final: EX results screen using OpenCV and EasyOCR, superseded by the lightfall score hook. I got this working most of the time, but was unable to get it fully consistent. Uploading this in case it would help anyone. 
+This is an old attempt to visually extract score data from the EZ2AC Final: EX results screen using OpenCV and EasyOCR, superseded by the lightfall score hook. I got this working most of the time, but was unable to get it fully consistent.
